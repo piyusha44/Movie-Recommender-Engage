@@ -54,3 +54,20 @@ These files will be used during the execution of App.py file.
 ### step 3:
 After entering the source code folder, run the following command on command prompt, to locally host the webpage
 streamlit run app.py
+
+### Home Page(User can add his userId here)
+![Screenshot (186)](https://user-images.githubusercontent.com/106458512/170855469-4c30dd15-3bac-4dc0-bff7-21c84a31fd08.png)
+### User can select Trending option and can get the list of trending movies
+![Screenshot (187)](https://user-images.githubusercontent.com/106458512/170856620-3173a16c-0ba5-4b09-9c83-324b85de8064.png)
+### User can search and select a movie in select bar and will get recommendations 
+![Screenshot (188)](https://user-images.githubusercontent.com/106458512/170856632-ef00ff00-9f9c-44f8-8338-da9a2f1a197d.png)
+### Searched movie details will be displayed
+![Screenshot (189)](https://user-images.githubusercontent.com/106458512/170856646-4bdc6c3e-2d88-434d-bde2-0d3d6a74106a.png)
+###  Similar movies related to the searched movie and their overviews
+![Screenshot (190)](https://user-images.githubusercontent.com/106458512/170856652-3b3faaf2-34e8-4470-8978-0590bb8d3ba1.png)
+### User can select his favourite genres and can get the list of movies from that genre.
+![Screenshot (191)](https://user-images.githubusercontent.com/106458512/170856661-0194affa-3848-427e-9edb-21f37e4b95ec.png)
+
+
+
+
